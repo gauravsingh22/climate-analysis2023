@@ -1,3 +1,3 @@
 # climate analysis toolkit
 
-We will analyse the climate data
+This is a set of python scripts to analyse climate data
